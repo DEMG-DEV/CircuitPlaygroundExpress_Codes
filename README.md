@@ -11,4 +11,3 @@ Some codes for use in the Circuit Playground Express.
   - [Temperatura.py](Python/Temperatura.py)
   - [Temperature_ColorPixel.py](Python/Temperature_ColorPixel.py)
 - Arduino
-- Visual Studio
